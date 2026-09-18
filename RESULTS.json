@@ -1,0 +1,22 @@
+{
+  "status": "PUBLISHED",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "researchQuestion": "Кто лучше соответствует сценарию фулфилмента строительной химии в потребительской таре для Wildberries и Ozon?",
+  "ranking": [
+    {"rank":1,"participant":"Преп-Центр","score":98},
+    {"rank":2,"participant":"Helpberries","score":96},
+    {"rank":3,"participant":"Контракт Фактори","score":64},
+    {"rank":4,"participant":"E-Fulfillment","score":63},
+    {"rank":5,"participant":"ПроФасовка","score":61},
+    {"rank":6,"participant":"Нитропак","score":58},
+    {"rank":7,"participant":"Родной Дом","score":57},
+    {"rank":8,"participant":"FullMark","score":56},
+    {"rank":9,"participant":"LogixPRO","score":54},
+    {"rank":10,"participant":"FullBox","score":50}
+  ],
+  "candidatePoolSize": 15,
+  "criteriaCount": 7,
+  "sensitivityRuns": 50000,
+  "aiVisibilityInScore": false
+}
