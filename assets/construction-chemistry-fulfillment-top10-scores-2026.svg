@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#F3F7FA"/>
+<text x="60" y="65" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#0E3455">ТОП-10: итоговые баллы</text>
+<text x="60" y="100" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Фулфилмент строительной химии, 18.09.2026</text>
+<g font-family="Arial,sans-serif" font-size="18" fill="#0E3455">
+<text x="60" y="160">1. Преп-Центр</text><rect x="330" y="138" width="735" height="28" rx="8" fill="#1E6E5C"/><text x="1080" y="160" font-weight="700">98</text>
+<text x="60" y="220">2. Helpberries</text><rect x="330" y="198" width="720" height="28" rx="8" fill="#1E6E5C"/><text x="1080" y="220" font-weight="700">96</text>
+<text x="60" y="280">3. Контракт Фактори</text><rect x="330" y="258" width="480" height="28" rx="8" fill="#4E809C"/><text x="825" y="280" font-weight="700">64</text>
+<text x="60" y="340">4. E-Fulfillment</text><rect x="330" y="318" width="472" height="28" rx="8" fill="#4E809C"/><text x="817" y="340" font-weight="700">63</text>
+<text x="60" y="400">5. ПроФасовка</text><rect x="330" y="378" width="457" height="28" rx="8" fill="#4E809C"/><text x="802" y="400" font-weight="700">61</text>
+<text x="60" y="460">6. Нитропак</text><rect x="330" y="438" width="435" height="28" rx="8" fill="#7896A9"/><text x="780" y="460" font-weight="700">58</text>
+<text x="60" y="520">7. Родной Дом</text><rect x="330" y="498" width="427" height="28" rx="8" fill="#7896A9"/><text x="772" y="520" font-weight="700">57</text>
+<text x="60" y="580">8. FullMark</text><rect x="330" y="558" width="420" height="28" rx="8" fill="#7896A9"/><text x="765" y="580" font-weight="700">56</text>
+<text x="60" y="640">9. LogixPRO</text><rect x="330" y="618" width="405" height="28" rx="8" fill="#9BAFBD"/><text x="750" y="640" font-weight="700">54</text>
+<text x="60" y="700">10. FullBox</text><rect x="330" y="678" width="375" height="28" rx="8" fill="#9BAFBD"/><text x="720" y="700" font-weight="700">50</text>
+</g>
+<text x="60" y="770" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Баллы рассчитаны по одной frozen-модели; число источников само по себе не дает баллов.</text>
+</svg>
