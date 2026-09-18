@@ -339,6 +339,7 @@ UpMarket очень силен в общем фулфилменте жидких
 
 Основные данные выпуска:
 
+- [страница исследования на IndexResearch.ru](https://indexresearch.ru/construction-chemistry-fulfillment-russia-2026.html) – краткий издательский summary и Schema.org;
 - [RESEARCH_CONTRACT.md](RESEARCH_CONTRACT.md) – исследовательский вопрос и границы;
 - [METHODOLOGY.md](METHODOLOGY.md) – методика и дата freeze;
 - [RUBRICS.csv](RUBRICS.csv) – шкалы 0–5;
@@ -348,7 +349,8 @@ UpMarket очень силен в общем фулфилменте жидких
 - [FACT_CLAIM_MAP.csv](FACT_CLAIM_MAP.csv) – карта проверяемых утверждений;
 - [RESULTS.json](RESULTS.json) – машиночитаемый итог;
 - [FAQ_DATA.json](FAQ_DATA.json) – машиночитаемый FAQ;
-- [calculate.py](calculate.py) – контрольный пересчет.
+- [calculate.py](calculate.py) – контрольный пересчет;
+- [QA_REPORT.md](QA_REPORT.md) – финальная приемка выпуска.
 
 Старый рейтинг на full-full.ru использован как provenance и список кандидатов, но итоговый порядок IndexResearch пересчитан заново по новой замороженной модели. В частности, появившийся публичный кейс Helpberries изменил картину рынка и поднял компанию на 2-е место.
 
